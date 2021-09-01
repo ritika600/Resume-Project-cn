@@ -10,6 +10,14 @@ body::-webkit-scrollbar {
 #body-header {
     height: 40px;
 }
+#particles-js {
+    background: black;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 65vh;
+    overflow: hidden;
+}
 /* Horizontal Lists */
 
 .bars{
